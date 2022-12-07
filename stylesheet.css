@@ -76,6 +76,8 @@ Mainvisual
   max-width: 1920px;
   height: 600px;
   object-fit: cover;
+  background: transparent url('img/mainvisual.png') 0% 0% no-repeat padding-box;
+opacity: 1;
 }
 
 /*-------------------------------------------
